@@ -1,0 +1,18 @@
+NguyenThiLam    Oanh   102140213 0 06/08/1995 14TCLC2 GD   3.6
+HoangVan        Phung  102140214 1 21/12/1996 14TCLC2 GD   3.6
+LuongThanh      Phuc   102140215 1 26/12/1993 14TCLC2 PGD  2.5
+PhamLinh        Dan    102291231 0 12/12/1995 13T1    TT   2.5
+HoVanAnh        Quoc   102140218 1 13/11/1995 14TCLC2 NV   1.8
+PhamQuoc        Trong  102140225 1 28/08/1995 14TCLC2 GD   3.6
+LeQuoc          Duy    102140113 1 22/10/1993 12T3    PGD  2.5
+LeMy            Huong  101323256 1 13/10/1998 16T1    NV   1.8
+NguyenNgoc      Huyen  102143213 0 08/03/1996 14T3    PGD  2.5
+PhamThien       Binh   103312125 1 13/04/1993 11T1    TT   1.9
+PhamHong        Dan    102140232 1 14/05/1995 13T1    GD   2.5
+TongCong        Minh   104302934 1 13/05/1993 13T1    PGD  3.1
+PhamVan         Hai    102013526 1 11/01/1994 14TCLC1 PGD  3.2
+CongTon         Thang  129392939 1 13/04/1993 11T1    TT   1.5
+NguyenQuang     Huy    103392349 1 14/04/1996 14T3    NV   1.4
+NguyenLe        Hang   103942844 0 14/02/1995 14T2    NV   1.3
+
+
